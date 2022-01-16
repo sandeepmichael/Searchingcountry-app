@@ -1,0 +1,14 @@
+.search-btn {
+    margin-top: 5px;
+}
+.input-btn {
+    margin-top: 5px;
+}
+.result-item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2px;
+    border:2px black solid;
+   
+}
